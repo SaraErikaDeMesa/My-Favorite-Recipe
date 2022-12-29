@@ -1,0 +1,124 @@
+.mainpage{
+    background-image: url(images/background.gif);
+    font-family: sans-serif;
+    padding:20px;
+    background-size: cover;
+}
+
+h1{
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+hr{
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+}
+
+h1, p, h2{
+    text-align:center;
+}
+
+.menu{
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+
+/*this is for the items for side dish: fried rice, chowmein, macaroni salad*/
+.item p{
+    text-align:center;
+    display: block;
+    font-size: 18px;
+}
+
+
+/*This is for friedrice.html CSS*/
+
+.friedricepage{ /*This is for the background, fonts*/
+    background-image: url(images/friedrice.gif);
+    background-position: center;
+    font-family: sans-serif;
+    padding:20px;
+    background-size: cover;
+}
+
+
+
+.friedricerecipe, .chowmeinrecipe, .macaronirecipe{ /*This is for the background of the recipe/menu */
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 800px;
+}
+
+h1{
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+    
+}
+
+h2{
+    font-size: 35px;
+    margin-top: 0;
+    margin-bottom:15px;
+    
+}
+
+/*h1, p, h2{
+    text-align:center;
+}*/
+
+/*This is for chowmein.html CSS*/
+
+.chowmeinpage{ /*This is for the background, fonts*/
+    background-image: url(images/chowmein.webp);
+    font-family: sans-serif;
+    padding:20px;
+    background-size: cover;
+}
+
+/*this is for macaronisalad.html CSS*/
+
+.macaronisaladpage{
+    background-image: url(images/macaronisalad.jpeg);
+    font-family: sans-serif;
+    padding:20px;
+    
+}
+
+.orangechickenlandpage{
+    background-image: url(images/orangechicken.gif);
+    background-position: center;
+    font-family: sans-serif;
+    padding:20px;
+    background-size: cover;
+}
+
+
+.orangechickenrecipe, .friedchickenrecipe{
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 800px;
+}
+
+
+
+.friedchickenlandpage{
+    background-image: url(images/friedchicken.webp);
+    background-position: center;
+    font-family: sans-serif;
+    padding:20px;
+    background-size: cover;
+}
